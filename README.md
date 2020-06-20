@@ -199,7 +199,7 @@ MGET key [key ...] # Syntax
 MGET key1 key2 # Example
 ```
 
-## Resourse
+## Resource
 
 - [Why Redis?](https://www.youtube.com/watch?v=OG610oe_kxs)
 - [Learn Redis from Scratch](https://www.eduonix.com/new_dashboard/learn-redis-from-scratch)

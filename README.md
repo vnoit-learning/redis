@@ -65,16 +65,14 @@ $ redis-cli # opens a redis prompt
 
 ## Basic Redis CLI
 
-## STRINGS
-
-1. SET
-2. SETNX - **SET** if **N**ot e**X**ists
-3. GET
-4. DEL
-5. EXISTS
-6. MSET - **M**ulti **SET**
-7. MSETNX - **M**ulti **SET** if **N**ot e**X**ists
-8. MGET - **M**ulti **GET**
+1. [SET](#SET)
+2. [SETNX](#SETNX) - **SET** if **N**ot e**X**ists
+3. [GET](#GET)
+4. [DEL](#DEL)
+5. [EXISTS](#EXISTS)
+6. [MSET](#MSET) - **M**ulti **SET**
+7. [MSETNX](#MSETNX) - **M**ulti **SET** if **N**ot e**X**ists
+8. [MGET](#MGET) - **M**ulti **GET**
 
 **Note** : _Other keywords are self explanatory_
 
